@@ -1,4 +1,4 @@
-package rw.rca.FristProject;
+package rw.rca.FristProject.samples;
 
 public class Outer {
     public static  String message ="Hello";
@@ -16,3 +16,4 @@ public class Outer {
         }
     }
 }
+
